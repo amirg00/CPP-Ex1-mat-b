@@ -7,7 +7,7 @@ int main() {
     char sym_1, sym_2;
 
     cout << "--------------------------------------------"
-            "\n*** MAT GENERATOR **"
+            "\n*************** MAT GENERATOR **************"
             "\n--------------------------------------------\n";
 
     cout << "Enter mat dimension (COL X ROW): ";
