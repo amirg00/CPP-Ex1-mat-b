@@ -18,7 +18,7 @@ int main() {
     cout << "You have entered the next mat dimension: " << COL << " X " << ROW;
     cout << "\nYou have entered the next two symbols: " << sym_1 << " AND " << sym_2;
     cout << "\n--------------------------------------------\n";
-    cout << "RESULT\n";
+    cout << "********** RESULT **********\n\n";
     cout << ariel::mat(COL, ROW, sym_1, sym_2);
 
     return 0;
